@@ -1,2 +1,3 @@
 # Just_hello
-Hello world
+My first GitHub repository.
+It's just Hello world!
